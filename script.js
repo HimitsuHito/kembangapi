@@ -33,7 +33,7 @@ const oneYearFromNow = new Date(d.setFullYear(d.getFullYear() + 1));
 
 let birthday = "";
 
-checkPastOrFuture("7", "January");
+checkPastOrFuture("3", "March");
 
 function submitDate(e) {
   let year, str;
