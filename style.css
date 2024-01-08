@@ -148,6 +148,9 @@ li span {
   color: white;
   line-height: 1.6;
 }
+.alert-paragraph__modalbox a {
+  color: black;
+}
 
 @media (max-width: 750px) {
   ul li {
