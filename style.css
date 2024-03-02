@@ -57,7 +57,8 @@ body {
   display: none;
 }
 
-h1 {
+h1,
+.happy__content p {
   font-family: "Open Sans";
   font-size: 3rem;
   text-align: center;
